@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 25, 2017
+### Day 1: June 25, 2017
 #####
 
 **Today's Progress**: mariahakinbi.com shows the landing page!!
@@ -21,22 +21,27 @@
 **Link to work:** mariahakinbi.com (currently displays the original repo's ReadMe)
 **Tomorrow's To-Do:** (1) get mariahakinbi.com to show the landing page - either by making a new index.html that immediately refreshes to the index.html file in the subfolder or by moving all of the folders from the subfolder to the main repo directory. (2) change out the resumes (3) figure out if I need to download bootstrap, etc. (4) edit the content!
 
-[//]: < ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+[comment]: <> (This is a comment, it will not be included)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+[//]: <> (Day 0: February 30, 2016 EX. 2)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+[//]: <> (does this show?)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+[comment]: <> (**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.)
+
+[comment]: <> (**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.)
+
+[comment]: <> (**Link to work**: [Calculator App])
 
 
-### Day 1: June 27, Monday
+[//]: <> (### Day 1: June 27, Monday)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+[//]: # (**Today's Progress**: I've gone through many exercises on FreeCodeCamp.)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+[//]: # (**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) >
+[comment]: <> (**Link to work**)
+
+[comment]: <> (1. [Find the Longest Word in a String]https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+
+[comment]: <> (2. [Title Case a Sentence] hiii)
