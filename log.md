@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 2: June 26, 2017
+#####
+
+**Today's Progress**: Changed the background image, rotator speed, nav bar, and social media accounts
+
+**Thoughts:** Accomplished everything on the to-do list! Not sure why some of the meta tags in the header are there..actually just figured it out after I typed that and just changed them. 
+
+**Link to work:** mariahakinbi.com (The home page is *almost* officially customized!)
+
+**Tomorrow's To-Do:** (1) get twitter icon button (2) delete "home" in nav bar (3) make the about it's own nav bar? nav bar within a nav bar?? ..Now that I think of it, I know that's possible
+
+**Lingering Questions:** How do you specify what part of the picture becomes the background image? (responsive cropping)
+
+
 ### Day 1: June 25, 2017
 #####
 
@@ -19,6 +33,7 @@
 **Thoughts:** It took forever and a half (3+ hours) to get a domain name and figure out how to set up hosting on GitHub with the forked repo. Although I've used Git/GitHub many times I'm still annoyingly cautious about everything.. Given how long everything took today, I may have to adjust the timeline (:
 
 **Link to work:** mariahakinbi.com (currently displays the original repo's ReadMe)
+
 **Tomorrow's To-Do:** (1) get mariahakinbi.com to show the landing page - either by making a new index.html that immediately refreshes to the index.html file in the subfolder or by moving all of the folders from the subfolder to the main repo directory. (2) change out the resumes (3) figure out if I need to download bootstrap, etc. (4) edit the content!
 
 [comment]: <> (This is a comment, it will not be included)
