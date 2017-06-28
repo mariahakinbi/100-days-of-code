@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 28, 2017
+#####
+
+**Today's Progress**: Home, About, and What I Love to Do are done
+
+**Thoughts:** Less excited about finishing another page than I was yesterday, but happy I'm making progress! 
+
+**Link to work:** mariahakinbi.com (The Home, About, and What I Love to Do pgs are done)
+
+**Tomorrow's To-Do:** (1) change Projects/Portfolio page (2) hover add text/skills (3) change Resume page (4) make the nav bar slowly appear while one is scrolling down (?)
+
+
 ### Day 3: June 27, 2017
 #####
 
