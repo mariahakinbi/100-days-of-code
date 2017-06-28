@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 3: June 27, 2017
+#####
+
+**Today's Progress**: Home and About pages are officially DONE!!!
+
+**Thoughts:** Discovered that Font Awesome is actually AWESOME! The open source community never ceases to amaze me. Also ditching the nav bar within a nav bar idea..too much for a portfolio landing page. Changed how much of the picture is shown by cropping outside of my editor (in Mac's Preview), but still trying to find out how to do this with code
+
+**Link to work:** mariahakinbi.com (The Home and About pages are done!)
+
+**Tomorrow's To-Do:** (1) change colors on rec carousel (2) change What I Love to Do page (3) make the nav bar slowly appear while one is scrolling down (?)
+
+**Lingering Questions:** Not a question but need more info on what determines what is displayed in a "section"?..why isn't the entire section shown all at once?? padding? margins? height?
+
 ### Day 2: June 26, 2017
 #####
 
