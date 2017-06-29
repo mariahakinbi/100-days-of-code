@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 5: June 29, 2017
+#####
+
+**Today's Progress**: worked on adding white background to images .. so hour wasn't spent coding..
+
+**Thoughts:** bummed I didn't make more progress, but given that it is my 24/7 resume I don't mind spending the time to make the UI nice
+
+**Link to work:** mariahakinbi.com (one logo + description in the portfolio page is *almost* done)
+
+**Tomorrow's To-Do:** same list as yesterday!
+
+
 ### Day 4: June 28, 2017
 #####
 
