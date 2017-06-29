@@ -3,6 +3,18 @@
 ### Day 5: June 29, 2017
 #####
 
+**Today's Progress**:figured out how to make the backgrounds white! need to resize the images a little more. Everything else on the projects/portfolio page is done
+
+**Thoughts:** Work-life balance is important. Now time to work on other things..
+
+**Link to work:** mariahakinbi.com (portfolio page is *almost* done)
+
+**Tomorrow's To-Do:** (1) Resize projects page images (2) hover add text/skills (3) change Resume page (4) make the nav bar slowly appear while one is scrolling down (?)
+
+
+### Day 5: June 29, 2017
+#####
+
 **Today's Progress**: worked on adding white background to images .. so hour wasn't spent coding..
 
 **Thoughts:** bummed I didn't make more progress, but given that it is my 24/7 resume I don't mind spending the time to make the UI nice
