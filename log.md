@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 30, 2017
+#####
+
+**Today's Progress**: Resized the images and figured out how to add text/skills when hovring over a project in the portfolio -- Paul already had the code in the repo, just had to uncomment it! Portfolio page is done. In the future, I'll have to figure out how to get the second row of elemnts in line with each other - sometimes they are crooked. Timeline resume is complete, need to fix the StudentU resume logo
+
+**Thoughts:**
+
+**Link to work:** mariahakinbi.com (Portfolio page is done. StudentU logo needs to be transparent)
+
+**Tomorrow's To-Do:** (1) fix StudentU logo (2) SKILLS PAGE!!! (3) animated cog on loading page (3) make the nav bar slowly appear while one is scrolling down (?)
+
+
 ### Day 5: June 29, 2017
 #####
 
