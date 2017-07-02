@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 7: July 1, 2017
+#####
+
+**Today's Progress**: Fixed the StudentU logo, though it still doesn't have a transparent backgroud. Portfolio is pretty much done. Spent a lot of time on the preloader. Just want to make nav bar slowly appear and tweak the responsiveness of the homepage.
+
+**Thoughts:** I like that everything is online and available, one just has to find it. It is motivating to know that what I'm trying to do has already been done and is feasible. This pushes me to keep going until I get it right.
+
+**Link to work:** mariahakinbi.com (Done - minor tweaks)
+
+**Tomorrow's To-Do:** (1) responsiveness of homepage (2) make nav bar slowly appear on About page
+
+
 ### Day 6: June 30, 2017
 #####
 
