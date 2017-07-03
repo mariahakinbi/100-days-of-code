@@ -3,6 +3,15 @@
 ### Day 8: July 2, 2017
 #####
 
+**Today's Progress**: WEBKIT EASE TRANSITION FTW!!!!!!!
+
+**Thoughts:** Today was another DayOfCode where I was about to close out of everything and but just wanted to give it one last try and it worked!! (kinda) I used webkit ease transition instead of trying to do a jquery fade in. I'd still like to figure out the jquery becuase that is more the look I'm going for, but the ease transiton will do for now!
+
+**Tomorrow's To-Do:** (1) responsiveness of homepage (2) make nav bar slowly appear on About page
+
+### Day 8: July 2, 2017
+#####
+
 **Today's Progress**: Initially wanted a day off, but glad I got down to it. Worked on making the navbar fade in - still can't figure out why it just appears on the about page
 
 **Tomorrow's To-Do:** (1) responsiveness of homepage (2) make nav bar slowly appear on About page
