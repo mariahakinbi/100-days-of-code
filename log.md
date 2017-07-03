@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 8: July 2, 2017
+#####
+
+**Today's Progress**: Initially wanted a day off, but glad I got down to it. Worked on making the navbar fade in - still can't figure out why it just appears on the about page
+
+**Tomorrow's To-Do:** (1) responsiveness of homepage (2) make nav bar slowly appear on About page
+
 ### Day 7: July 1, 2017
 #####
 
