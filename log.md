@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 9: July 3, 2017
+#####
+
+**Today's Progress**: Updated pdfs on portfolio page + figured out that I need to figure out how to get this affixed navbar to fade in. Have a few videos to watch tomorrow and some documentation to read. Spent time doing Udemy's Python for Data Science and Machine Learning course - went through the Matplotlib section. Going to use a little pit of matplotlib and lots of seaborn for the McDs EDA. Trying to have the website live monday, July 10 for feedback.
+
+**Tomorrow's To-Do:** (1) read about affix (2) responsiveness of homepage (3) make nav bar slowly appear on About page
+
 ### Day 8: July 2, 2017
 #####
 
