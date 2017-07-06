@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 11: July 5, 2017
+#####
+
+**Today's Progress**: Worked through the rest of the seaborn videos on Udemy. 
+
+**Tomorrow's To-Do:** (1) Seaborn exercises (2) responsiveness of homepage (3) Stats Project (4) center projects page for Internet Explorer (5) read about affix / make nav bar slowly appear on About page (6) collect menu prices for McDs data set (API? or go to local McDs?)
+
+### Day 10: July 4, 2017
+#####
+
+**Today's Progress**: Worked through the first couple Seaborn videos on Udemy's Python for Data Science and Machine Learning Bootcamp. Did some EDA on the McD's data set.
+
+**Tomorrow's To-Do:** Finish Seaborn vids
+
 ### Day 9: July 3, 2017
 #####
 
