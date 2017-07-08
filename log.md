@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 13: July 7, 2017
+#####
+
+**Today's Progress**: Plotly and Cufflinks - tried to try my hand with plotly in my McDs EDA kernel on Kaggle, but runing into some errors. Got menu prices for McDs (went to McDs and took a pic of the menu). Came up with final research project questions for Statistics with R specialization on Coursera.
+
+**Tomorrow's To-Do:** (1) finish Coursera Stats project (2) responsiveness of homepage (3) center projects page (4) read about affix / make nav bar slowly appear on About page
+
+
+### Day 12: July 6, 2017
+#####
+
+**Today's Progress**: Worked through the Seaborn exercises on Udemy
+
+**Tomorrow's To-Do:** (1) Stats Project (2) center projects page (3) responsiveness of homepage (5) read about affix / make nav bar slowly appear on About page (6) collect menu prices for McDs data set (API? or go to local McDs?)
+
 ### Day 11: July 5, 2017
 #####
 
