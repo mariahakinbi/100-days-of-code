@@ -1,4 +1,37 @@
 # 100 Days Of Code - Log
+### Day 18: July 12, 2017
+#####
+
+**Today's Progress**: Used plotly to plot my response to my first research question in final project. Created a gif to tweet the plot!
+
+**Tomorrow's To-Do:** (1) Finish other graphs (2) Porfolio
+
+### Day 17: July 11, 2017
+#####
+
+**Today's Progress**: Learned about levels and factors in R
+
+**Tomorrow's To-Do:** Finsh redo-ing the graphs and add to conclusions.
+
+### Day 16: July 10, 2017
+#####
+
+**Today's Progress**: finishing up EDA in R with CDC.gov BRFSS data
+
+
+
+### Day 15: July 9, 2017
+#####
+
+**Today's Progress**: EDA in R
+
+
+
+### Day 14: July 8, 2017
+#####
+
+**Today's Progress**: EDA in R
+
 
 ### Day 13: July 7, 2017
 #####
