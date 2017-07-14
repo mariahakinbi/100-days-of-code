@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 19: July 13, 2017
+#####
+
+**Today's Progress**: Used plotly to make the last few plots interactive
+
+**Thoughts:** So so happy the plotly graphs were easy to implement today! Now just have to finish the write up. Attended WWCSF's Webinar on "Social Media and Career Development for Coders" hosted by Wendy Sacuzzo from Hackbright - that was very informative. I learned that I need to have a consistent presence - I immediately changed my LinkedIn profile to match my other social media pictures. I need to make my LinkedIn align more with my portfolio - might need to seek feedback about that. I need to work on cultivating my brand - thinking about getting business cards - excited to get the portfolio up and running after these last few additions and start getting feedback and making connections. Also realized that I should contact the woman who wrote the blog post about how to change a repo language and maybe she can walk me through it or I could look at other's repos to see what they did. I've looked at other's profiles and they upload the R file, so maybe I can save the .rmd as .r. I also attended Coding Dogo's webinar on Buildling Responsive Sites. I got my question answered and I think I know how to fix the homepage responsiveness on xs devices! Tomorrow I will focus on polishing the CDC EDA and looking into the best way to present it.
+
+**Tomorrow's To-Do:** (1) Write analysis + conclusions (2) Porfolio
+
 ### Day 18: July 12, 2017
 #####
 
