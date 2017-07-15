@@ -1,4 +1,21 @@
 # 100 Days Of Code - Log
+
+
+## This week I learned:
+- Always overestimate on time. Always.
+- Storytelling is important! *Show* the reader *why* they should care about the data. Make sure the reader knows by the time you get to the analysis.
+- The sky is not the limit. There is no limit. 
+- How to Fly a Horse: Creativity is a series of steps. Creation is the result of many many steps, trials, and failures. Perserverance is key. Expect Adversity.
+
+### Day 20: July 14, 2017
+#####
+
+**Today's Progress**: Finished with the CDC EDA. Made a box plot for each bar chart, tidied the analysis, then pushed to Github! The plotly plots are not plotting. Currently the script is produced but not the plot.
+
+**Thoughts:** Maybe I should double my time allowances for everything..? Hope to be done and move on tomorrow.
+
+**Tomorrow's To-Do:** (1) Host CDC EDA on README or set up pages (probs will have to set up pages) (2) Porfolio
+
 ### Day 19: July 13, 2017
 #####
 
