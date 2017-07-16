@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 21: July 14, 2017
+#####
+
+**Today's Progress**: Learned that QuickTime can do screen grabs. Converted quicktime movies to gifs using zamzar. Changed html/js script to gifs for readme file. Not going to focus on setting up projects page right now. 
+
+**Tomorrow's To-Do:** (1) Finish Porfolio
+
 
 ## This week I learned:
 - Always overestimate on time. Always.
