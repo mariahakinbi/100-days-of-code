@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 21: July 14, 2017
+### Day 22: July 16, 2017
+#####
+
+**Today's Progress**: Back to work on the portfolio. Updated the contact section. Added CDC EDA to portfolio section.FIGURED OUT THE RESPONSIVENESS OF MY HOMEPAGESALDFJASLDFJSF JASFKASDFLSJDLFKAF YAY.
+
+**Tomorrow's To-Do:** (1) Skills sectionn (2) send out for feedback by Wednesday!
+
+### Day 21: July 15, 2017
 #####
 
 **Today's Progress**: Learned that QuickTime can do screen grabs. Converted quicktime movies to gifs using zamzar. Changed html/js script to gifs for readme file. Not going to focus on setting up projects page right now. 
