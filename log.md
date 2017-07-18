@@ -5,7 +5,7 @@
 
 **Today's Progress**: DONE DONE DONE! Now time for feedback!!
 
-**Tomorrow's To-Do:** (1) FEEDBACK! (2) Coursera reading (3) Udemy review
+**Tomorrow's To-Do:** (1) FEEDBACK!/figure out underscore/whitespace underline (2) Coursera reading (3) Udemy review
 
 ### Day 22: July 16, 2017
 #####
