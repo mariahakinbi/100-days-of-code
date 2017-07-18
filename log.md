@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 23: July 17, 2017
+####
+
+**Today's Progress**: DONE DONE DONE! Now time for feedback!!
+
+**Tomorrow's To-Do:** (1) FEEDBACK! (2) Coursera reading (3) Udemy review
+
 ### Day 22: July 16, 2017
 #####
 
