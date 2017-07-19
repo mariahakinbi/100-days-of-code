@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 24: July 18, 2017
+####
+
+**Today's Progress**: DONE DONE DONE! Now time for feedback!! Figured out the whitespace/underscore situation - just needed to close a couple tags further up in my html. Pycharm FTW. Officially started the job hunt and partially updated my Athlete Network profile.
+
+**Tomorrow's To-Do:** (1) FEEDBACK! (2) Coursera reading (3) Udemy review (4) McDs EDA
+
 ### Day 23: July 17, 2017
 ####
 
