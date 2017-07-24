@@ -1,5 +1,39 @@
 # 100 Days Of Code - Log
 
+### Day 29: July 23, 2017
+####
+
+**Today's Progress**: AngelHack - got the pos/neg sentiment anlysis running on the head of the cleaned data frame
+
+**Tomorrow's To-Do:** (1) get more pos/neg words to classify data more accurately (2) Normalize predictions (?) (3) Visualize predictions
+
+### Day 28: July 22, 2017
+####
+
+**Today's Progress**: AngelHack - cleaned data (removed punctuation and stop words and redundant columns), EDA on the Mr. Clean Complaints data
+
+**Tomorrow's To-Do:** (1) sentiment analysis
+
+
+### Day 27: July 21, 2017
+####
+
+**Today's Progress**: NLP videos on Udemy + exercises
+**Tomorrow's To-Do:** ANGELHACK!!
+
+
+### Day 26: July 20, 2017
+####
+
+**Today's Progress**: NLP videos on Udemy + HackerRank challenge
+
+
+### Day 25: July 19, 2017
+####
+
+**Today's Progress**: learned about Monty Hall & did FizzBuzz
+
+
 ### Day 24: July 18, 2017
 ####
 
