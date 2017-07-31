@@ -1,5 +1,53 @@
 # 100 Days Of Code - Log
 
+### Day 37: July 31, 2017
+####
+
+**Today's Progress**: Algorithm + portfolio work
+
+### Day 36: July 30, 2017
+####
+
+**Today's Progress**: Built the prayer classifier. Implemented a pipeline. Presented at Chicago Code for the Kingdom hackathon.
+
+### Day 35: July 29, 2017
+####
+
+**Today's Progress**: Scraped from medium, a kenyan news website, others. Learned about being a freelance data scientist
+
+### Day 34: July 28, 2017
+####
+
+**Today's Progress**: Learned about scraping + scraped desiringgod.com + a prayer wall website. 
+
+
+### Day 33: July 27, 2017
+####
+
+**Today's Progress**: slight portfolio work 
+Was going to scrape Amazon or use an API, but seeing that most of the complaints come from Walmart, that would be a smarter first step. On second though - maybe those complaints aren't being aptured.
+
+**Tomorrow's To-Do:** 
+
+### Day 32: July 26, 2017
+####
+
+**Today's Progress**: Metis Webinars + Shirley Wu Twitch + changed portfolio background
+
+
+### Day 31: July 25, 2017
+####
+
+**Today's Progress**: portfolio work 
+
+
+### Day 30: July 24, 2017
+####
+
+**Today's Progress**: got pos/neg word lists
+
+
+
 ### Day 29: July 23, 2017
 ####
 
